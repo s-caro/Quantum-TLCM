@@ -46,4 +46,4 @@ To reproduce the experiments as described in the paper, follow the steps outline
 
 For any questions or issues, please contact:
 
-- [Susanna Caroppo](susanna.caroppo@uniroma3.it)
+- Susanna Caroppo - susanna.caroppo@uniroma3.it
