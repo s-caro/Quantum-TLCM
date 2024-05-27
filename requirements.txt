@@ -1,0 +1,5 @@
+matplotlib
+networkx
+dimod
+dwave-ocean-sdk
+jsonlib-python3
